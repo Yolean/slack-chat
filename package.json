@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Yolean/slack-chat/issues"
   },
-  "homepage": "https://github.com/Yolean/slack-chat#readme"
+  "homepage": "https://github.com/Yolean/slack-chat#readme",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "moment": "^2.13.0"
+  }
 }
